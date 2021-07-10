@@ -1,0 +1,35 @@
+*{
+  margin: 3px;
+}
+.questionCard{
+  text-align: center;
+}
+
+.questions{
+  background-color: rgb(243, 241, 238);
+  text-align: left;
+  width: 85%;
+  margin: 50px auto;
+  padding: 40px;
+  box-shadow: 3px 2px 9px black;
+  border-radius: 20px;
+}
+.logo{
+  text-shadow: 3px 2px 9px rgb(100, 92, 92);
+  font-size: 3rem;
+}
+.nextbutton{
+  background-color: rgb(2, 36, 27);
+  font-size: 18px;
+  font-weight: lighter;
+  width: 120px;
+  border: 1px solid transparent;
+  padding: 7px 0;
+  border-radius: 20px;
+  color: white;
+  margin: 30px auto;
+  box-shadow: 3px 2px 9px rgb(100, 92, 92);
+}
+.score{
+  text-align: right;
+}
